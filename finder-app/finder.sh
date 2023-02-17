@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 number_of_args=$#
 filesdir=$1
